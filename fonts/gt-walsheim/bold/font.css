@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'GTWalsheimProBold';
+  src: url('GTWalsheimProBold.eot');
+  src: url('GTWalsheimProBold.woff2') format('woff2'),
+       url('GTWalsheimProBold.woff') format('woff'),
+       url('GTWalsheimProBold.ttf') format('truetype'),
+       url('GTWalsheimProBold.svg#GTWalsheimProBold') format('svg'),
+       url('GTWalsheimProBold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
